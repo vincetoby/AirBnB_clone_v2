@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Installs, configures, and starts the web server
+# this installs, configures, and also starts the web server
 SERVER_CONFIG="server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
